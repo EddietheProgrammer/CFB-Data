@@ -1,0 +1,230 @@
+,level_0,Unnamed: 0,index,team_name,team_id,color,logo,team_location
+0,0,0,0,USC,30,#9e2237,https://a.espncdn.com/i/teamlogos/ncaa/500/30.png,USC
+1,1,1,1,SJSU,23,#005893,https://a.espncdn.com/i/teamlogos/ncaa/500/23.png,San José State
+2,2,2,2,ND,87,#0c2340,https://a.espncdn.com/i/teamlogos/ncaa/500/87.png,Notre Dame
+3,3,3,3,NAVY,2426,#00225b,https://a.espncdn.com/i/teamlogos/ncaa/500/2426.png,Navy
+4,4,4,4,JVST,55,#b50500,https://a.espncdn.com/i/teamlogos/ncaa/500/55.png,Jacksonville State
+5,5,5,5,UTEP,2638,#ff8200,https://a.espncdn.com/i/teamlogos/ncaa/500/2638.png,UTEP
+6,6,6,6,NMSU,166,#891216,https://a.espncdn.com/i/teamlogos/ncaa/500/166.png,New Mexico State
+7,7,7,7,MASS,113,#880007,https://a.espncdn.com/i/teamlogos/ncaa/500/113.png,Massachusetts
+8,8,8,8,SDSU,21,#c41230,https://a.espncdn.com/i/teamlogos/ncaa/500/21.png,San Diego State
+9,9,9,9,OHIO,195,#295A29,https://a.espncdn.com/i/teamlogos/ncaa/500/195.png,Ohio
+10,10,10,10,LT,2348,#002d65,https://a.espncdn.com/i/teamlogos/ncaa/500/2348.png,Louisiana Tech
+11,11,11,11,FIU,2229,#001538,https://a.espncdn.com/i/teamlogos/ncaa/500/2229.png,Florida International
+12,12,12,12,VAN,238,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/238.png,Vanderbilt
+13,13,13,13,HAW,62,#003420,https://a.espncdn.com/i/teamlogos/ncaa/500/62.png,Hawai'i
+14,14,14,14,UTAH,254,#ea002a,https://a.espncdn.com/i/teamlogos/ncaa/500/254.png,Utah
+15,15,15,15,FLA,57,#0021a5,https://a.espncdn.com/i/teamlogos/ncaa/500/57.png,Florida
+16,16,16,16,WAKE,154,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/154.png,Wake Forest
+17,17,17,17,ELON,2210,#020303,https://a.espncdn.com/i/teamlogos/ncaa/500/2210.png,Elon
+18,18,18,18,UCF,2116,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2116.png,UCF
+19,19,19,19,KENT,2309,#003976,https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png,Kent State
+20,20,20,20,GAST,2247,#1e539a,https://a.espncdn.com/i/teamlogos/ncaa/500/2247.png,Georgia State
+21,21,21,21,URI,227,#091f3f,https://a.espncdn.com/i/teamlogos/ncaa/500/227.png,Rhode Island
+22,22,22,22,WMU,2711,#532e1f,https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png,Western Michigan
+23,23,23,23,SFPA,2598,#a20012,https://a.espncdn.com/i/teamlogos/ncaa/500/2598.png,St. Francis (PA)
+24,24,24,24,CONN,41,#0c2340,https://a.espncdn.com/i/teamlogos/ncaa/500/41.png,UConn
+25,25,25,25,NCSU,152,#cc0000,https://a.espncdn.com/i/teamlogos/ncaa/500/152.png,NC State
+26,26,26,26,MINN,135,#5e0a2f,https://a.espncdn.com/i/teamlogos/ncaa/500/135.png,Minnesota
+27,27,27,27,NEB,158,#d00000,https://a.espncdn.com/i/teamlogos/ncaa/500/158.png,Nebraska
+28,28,28,28,MIZ,142,#f1b82d,https://a.espncdn.com/i/teamlogos/ncaa/500/142.png,Missouri
+29,29,29,29,SDAK,233,#CD1241,https://a.espncdn.com/i/teamlogos/ncaa/500/233.png,South Dakota
+30,30,30,30,TLSA,202,#003595,https://a.espncdn.com/i/teamlogos/ncaa/500/202.png,Tulsa
+31,31,31,31,UAPB,2029,#e0aa0f,https://a.espncdn.com/i/teamlogos/ncaa/500/2029.png,Arkansas-Pine Bluff
+32,32,32,32,UAB,5,#003b28,https://a.espncdn.com/i/teamlogos/ncaa/500/5.png,UAB
+33,33,33,33,NCAT,2448,#0505aa,https://a.espncdn.com/i/teamlogos/ncaa/500/2448.png,North Carolina A&T
+34,34,34,34,ASU,9,#8e0c3a,https://a.espncdn.com/i/teamlogos/ncaa/500/9.png,Arizona State
+35,35,35,35,SUU,253,#c72026,https://a.espncdn.com/i/teamlogos/ncaa/500/253.png,Southern Utah
+36,36,36,36,EMU,2199,#00331b,https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png,Eastern Michigan
+37,37,37,37,HOW,47,#003a63,https://a.espncdn.com/i/teamlogos/ncaa/500/47.png,Howard
+38,38,38,38,MSU,127,#18453b,https://a.espncdn.com/i/teamlogos/ncaa/500/127.png,Michigan State
+39,39,39,39,CMU,2117,#6a0032,https://a.espncdn.com/i/teamlogos/ncaa/500/2117.png,Central Michigan
+40,40,40,40,MIA,2390,#005030,https://a.espncdn.com/i/teamlogos/ncaa/500/2390.png,Miami
+41,41,41,41,M-OH,193,#a4000c,https://a.espncdn.com/i/teamlogos/ncaa/500/193.png,Miami (OH)
+42,42,42,42,GT,59,#003057,https://a.espncdn.com/i/teamlogos/ncaa/500/59.png,Georgia Tech
+43,43,43,43,LOU,97,#c9001f,https://a.espncdn.com/i/teamlogos/ncaa/500/97.png,Louisville
+44,44,44,44,KU,2305,#0051ba,https://a.espncdn.com/i/teamlogos/ncaa/500/2305.png,Kansas
+45,45,45,45,MOST,2623,#5F0000,https://a.espncdn.com/i/teamlogos/ncaa/500/2623.png,Missouri State
+46,46,46,47,STAN,24,#8c1515,https://a.espncdn.com/i/teamlogos/ncaa/500/24.png,Stanford
+47,47,47,48,UGA,61,#ba0c2f,https://a.espncdn.com/i/teamlogos/ncaa/500/61.png,Georgia
+48,48,48,49,UTM,2630,#FF6700,https://a.espncdn.com/i/teamlogos/ncaa/500/2630.png,UT Martin
+49,49,49,50,MICH,130,#00274c,https://a.espncdn.com/i/teamlogos/ncaa/500/130.png,Michigan
+50,50,50,51,ECU,151,#4b1869,https://a.espncdn.com/i/teamlogos/ncaa/500/151.png,East Carolina
+51,51,51,52,IU,84,#990000,https://a.espncdn.com/i/teamlogos/ncaa/500/84.png,Indiana
+52,52,52,53,OSU,194,#ce1141,https://a.espncdn.com/i/teamlogos/ncaa/500/194.png,Ohio State
+53,53,53,54,ALA,333,#9e1632,https://a.espncdn.com/i/teamlogos/ncaa/500/333.png,Alabama
+54,54,54,55,MTSU,2393,#006db6,https://a.espncdn.com/i/teamlogos/ncaa/500/2393.png,Middle Tennessee
+55,55,55,57,NEV,2440,#002d62,https://a.espncdn.com/i/teamlogos/ncaa/500/2440.png,Nevada
+56,56,56,58,PSU,213,#00265D,https://a.espncdn.com/i/teamlogos/ncaa/500/213.png,Penn State
+57,57,57,59,WVU,277,#002855,https://a.espncdn.com/i/teamlogos/ncaa/500/277.png,West Virginia
+58,58,58,60,WASH,264,#33006f,https://a.espncdn.com/i/teamlogos/ncaa/500/264.png,Washington
+59,59,59,61,BOIS,68,#0033a0,https://a.espncdn.com/i/teamlogos/ncaa/500/68.png,Boise State
+60,60,60,62,TEX,251,#c15d26,https://a.espncdn.com/i/teamlogos/ncaa/500/251.png,Texas
+61,61,61,63,RICE,242,#d1d5d8,https://a.espncdn.com/i/teamlogos/ncaa/500/242.png,Rice
+62,62,62,64,TENN,2633,#ff8200,https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png,Tennessee
+63,63,63,65,UVA,258,#232d4b,https://a.espncdn.com/i/teamlogos/ncaa/500/258.png,Virginia
+64,64,64,67,TNST,2634,#171796,https://a.espncdn.com/i/teamlogos/ncaa/500/2634.png,Tennessee State
+65,65,65,68,ORE,2483,#007030,https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png,Oregon
+66,66,66,69,PRST,2502,#00311e,https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png,Portland State
+67,67,67,70,KSU,2306,#3c0969,https://a.espncdn.com/i/teamlogos/ncaa/500/2306.png,Kansas State
+68,68,68,71,SEMO,2546,#c8102e,https://a.espncdn.com/i/teamlogos/ncaa/500/2546.png,Southeast Missouri State
+69,69,69,72,TCU,2628,#4d1979,https://a.espncdn.com/i/teamlogos/ncaa/500/2628.png,TCU
+70,70,70,73,COLO,38,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/38.png,Colorado
+71,71,71,74,WIS,275,#c4012f,https://a.espncdn.com/i/teamlogos/ncaa/500/275.png,Wisconsin
+72,72,72,75,BUFF,2084,#041A9B,https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png,Buffalo
+73,73,73,76,OU,201,#a32036,https://a.espncdn.com/i/teamlogos/ncaa/500/201.png,Oklahoma
+74,74,74,77,ARST,2032,#e81018,https://a.espncdn.com/i/teamlogos/ncaa/500/2032.png,Arkansas State
+75,75,75,78,SC,2579,#73000a,https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png,South Carolina
+76,76,76,79,UNC,153,#7bafd4,https://a.espncdn.com/i/teamlogos/ncaa/500/153.png,North Carolina
+77,77,77,80,MISS,145,#13294b,https://a.espncdn.com/i/teamlogos/ncaa/500/145.png,Ole Miss
+78,78,78,81,MER,2382,#ff7f29,https://a.espncdn.com/i/teamlogos/ncaa/500/2382.png,Mercer
+79,79,79,82,TA&M,245,#500000,https://a.espncdn.com/i/teamlogos/ncaa/500/245.png,Texas A&M
+80,80,80,83,UNM,167,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/167.png,New Mexico
+81,81,81,84,TULN,2655,#006547,https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png,Tulane
+82,82,82,85,USA,6,#003E7E,https://a.espncdn.com/i/teamlogos/ncaa/500/6.png,South Alabama
+83,83,83,86,IOWA,2294,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2294.png,Iowa
+84,84,84,87,USU,328,#00263a,https://a.espncdn.com/i/teamlogos/ncaa/500/328.png,Utah State
+85,85,85,88,UK,96,#0033a0,https://a.espncdn.com/i/teamlogos/ncaa/500/96.png,Kentucky
+86,86,86,89,BALL,2050,#DA0000,https://a.espncdn.com/i/teamlogos/ncaa/500/2050.png,Ball State
+87,87,87,90,LIB,2335,#071740,https://a.espncdn.com/i/teamlogos/ncaa/500/2335.png,Liberty
+88,88,88,91,BGSU,189,#2b1000,https://a.espncdn.com/i/teamlogos/ncaa/500/189.png,Bowling Green
+89,89,89,92,PUR,2509,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2509.png,Purdue
+90,90,90,93,FRES,278,#c41230,https://a.espncdn.com/i/teamlogos/ncaa/500/278.png,Fresno State
+91,91,91,94,SMU,2567,#354ca1,https://a.espncdn.com/i/teamlogos/ncaa/500/2567.png,SMU
+92,92,92,96,BC,103,#8c2232,https://a.espncdn.com/i/teamlogos/ncaa/500/103.png,Boston College
+93,93,93,97,NIU,2459,#F1122C,https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png,Northern Illinois
+94,94,94,99,LIU,2341,#None,https://a.espncdn.com/i/teamlogos/ncaa/500/2341.png,Long Island University
+95,95,95,100,ARK,8,#a41f35,https://a.espncdn.com/i/teamlogos/ncaa/500/8.png,Arkansas
+96,96,96,101,WCU,2717,#492F91,https://a.espncdn.com/i/teamlogos/ncaa/500/2717.png,Western Carolina
+97,97,97,102,AFA,2005,#004a7b,https://a.espncdn.com/i/teamlogos/ncaa/500/2005.png,Air Force
+98,98,98,103,RMU,2523,#00214D,https://a.espncdn.com/i/teamlogos/ncaa/500/2523.png,Robert Morris
+99,99,99,105,ETSU,2193,#002d61,https://a.espncdn.com/i/teamlogos/ncaa/500/2193.png,East Tennessee State
+100,100,100,106,ISU,66,#822433,https://a.espncdn.com/i/teamlogos/ncaa/500/66.png,Iowa State
+101,101,101,107,UNI,2460,#473282,https://a.espncdn.com/i/teamlogos/ncaa/500/2460.png,Northern Iowa
+102,102,102,108,TEM,218,#A80532,https://a.espncdn.com/i/teamlogos/ncaa/500/218.png,Temple
+103,103,103,109,AKR,2006,#00285e,https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png,Akron
+104,104,104,110,AUB,2,#002b5c,https://a.espncdn.com/i/teamlogos/ncaa/500/2.png,Auburn
+105,105,105,112,MD,120,#D5002B,https://a.espncdn.com/i/teamlogos/ncaa/500/120.png,Maryland
+106,106,106,113,TOW,119,#FFC229,https://a.espncdn.com/i/teamlogos/ncaa/500/119.png,Towson
+107,107,107,114,WKU,98,#F32026,https://a.espncdn.com/i/teamlogos/ncaa/500/98.png,Western Kentucky
+108,108,108,115,USF,58,#004A36,https://a.espncdn.com/i/teamlogos/ncaa/500/58.png,South Florida
+109,109,109,116,PITT,221,#003263,https://a.espncdn.com/i/teamlogos/ncaa/500/221.png,Pittsburgh
+110,110,110,117,WOF,2747,#533B23,https://a.espncdn.com/i/teamlogos/ncaa/500/2747.png,Wofford
+111,111,111,118,CIN,2132,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2132.png,Cincinnati
+112,112,112,119,EKU,2198,#660819,https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png,Eastern Kentucky
+113,113,113,120,APP,2026,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2026.png,Appalachian State
+114,114,114,121,GWEB,2241,#c12535,https://a.espncdn.com/i/teamlogos/ncaa/500/2241.png,Gardner-Webb
+115,115,115,122,MSST,344,#5d1725,https://a.espncdn.com/i/teamlogos/ncaa/500/344.png,Mississippi State
+116,116,116,123,SELA,2545,#215732,https://a.espncdn.com/i/teamlogos/ncaa/500/2545.png,SE Louisiana
+117,117,117,124,UNT,249,#ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/249.png,North Texas
+118,118,118,125,CAL,25,#031522,https://a.espncdn.com/i/teamlogos/ncaa/500/25.png,California
+119,119,119,126,SYR,183,#ff6500,https://a.espncdn.com/i/teamlogos/ncaa/500/183.png,Syracuse
+120,120,120,127,COLG,2142,#821019,https://a.espncdn.com/i/teamlogos/ncaa/500/2142.png,Colgate
+121,121,121,128,UNLV,2439,#b10202,https://a.espncdn.com/i/teamlogos/ncaa/500/2439.png,UNLV
+122,122,122,129,BRY,2803,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2803.png,Bryant
+123,123,123,130,CLT,2429,#ffffff,https://a.espncdn.com/i/teamlogos/ncaa/500/2429.png,Charlotte
+124,124,124,131,SCST,2569,#7d1315,https://a.espncdn.com/i/teamlogos/ncaa/500/2569.png,South Carolina State
+125,125,125,132,FAU,2226,#00447c,https://a.espncdn.com/i/teamlogos/ncaa/500/2226.png,Florida Atlantic
+126,126,126,133,MONM,2405,#051844,https://a.espncdn.com/i/teamlogos/ncaa/500/2405.png,Monmouth
+127,127,127,134,GASO,290,#003775,https://a.espncdn.com/i/teamlogos/ncaa/500/290.png,Georgia Southern
+128,128,128,135,CIT,2643,#002b5c,https://a.espncdn.com/i/teamlogos/ncaa/500/2643.png,The Citadel
+129,129,129,136,JMU,256,#450084,https://a.espncdn.com/i/teamlogos/ncaa/500/256.png,James Madison
+130,130,130,137,BUCK,2083,#000060,https://a.espncdn.com/i/teamlogos/ncaa/500/2083.png,Bucknell
+131,131,131,138,MRSH,276,#00ae42,https://a.espncdn.com/i/teamlogos/ncaa/500/276.png,Marshall
+132,132,132,139,ALB,399,#3D2777,https://a.espncdn.com/i/teamlogos/ncaa/500/399.png,UAlbany
+133,133,133,141,ME,311,#127dbe,https://a.espncdn.com/i/teamlogos/ncaa/500/311.png,Maine
+134,134,134,142,ULM,2433,#231F20,https://a.espncdn.com/i/teamlogos/ncaa/500/2433.png,UL Monroe
+135,135,135,143,ARMY,349,#ce9c00,https://a.espncdn.com/i/teamlogos/ncaa/500/349.png,Army
+136,136,136,145,AAMU,2010,#790000,https://a.espncdn.com/i/teamlogos/ncaa/500/2010.png,Alabama A&M
+137,137,137,146,CSU,36,#1e4d2b,https://a.espncdn.com/i/teamlogos/ncaa/500/36.png,Colorado State
+138,138,138,147,WSU,265,#981e32,https://a.espncdn.com/i/teamlogos/ncaa/500/265.png,Washington State
+139,139,139,148,BAY,239,#154734,https://a.espncdn.com/i/teamlogos/ncaa/500/239.png,Baylor
+140,140,140,149,TXST,326,#4e1719,https://a.espncdn.com/i/teamlogos/ncaa/500/326.png,Texas State
+141,141,141,150,HOU,248,#c92a39,https://a.espncdn.com/i/teamlogos/ncaa/500/248.png,Houston
+142,142,142,151,UTSA,2636,#002A5C,https://a.espncdn.com/i/teamlogos/ncaa/500/2636.png,UTSA
+143,143,143,152,OKST,197,#ff6500,https://a.espncdn.com/i/teamlogos/ncaa/500/197.png,Oklahoma State
+144,144,144,153,CARK,2110,#a7a9ac,https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png,Central Arkansas
+145,145,145,154,MEM,235,#004991,https://a.espncdn.com/i/teamlogos/ncaa/500/235.png,Memphis
+146,146,146,155,BCU,2065,#7b1831,https://a.espncdn.com/i/teamlogos/ncaa/500/2065.png,Bethune-Cookman
+147,147,147,156,USM,2572,#FFAA3C,https://a.espncdn.com/i/teamlogos/ncaa/500/2572.png,Southern Miss
+148,148,148,157,ALCN,2016,#4b0058,https://a.espncdn.com/i/teamlogos/ncaa/500/2016.png,Alcorn State
+149,149,149,158,TROY,2653,#AE0210,https://a.espncdn.com/i/teamlogos/ncaa/500/2653.png,Troy
+150,150,150,159,SFA,2617,#393996,https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png,Stephen F. Austin
+151,151,151,160,ILL,356,#ff5f05,https://a.espncdn.com/i/teamlogos/ncaa/500/356.png,Illinois
+152,152,152,161,TOL,2649,#0a2240,https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png,Toledo
+153,153,153,162,VT,259,#630031,https://a.espncdn.com/i/teamlogos/ncaa/500/259.png,Virginia Tech
+154,154,154,163,ODU,295,#00507d,https://a.espncdn.com/i/teamlogos/ncaa/500/295.png,Old Dominion
+155,155,155,164,UL,309,#ce181e,https://a.espncdn.com/i/teamlogos/ncaa/500/309.png,Louisiana
+156,156,156,165,NWST,2466,#492F91,https://a.espncdn.com/i/teamlogos/ncaa/500/2466.png,Northwestern State
+157,157,157,166,WYO,2751,#492f24,https://a.espncdn.com/i/teamlogos/ncaa/500/2751.png,Wyoming
+158,158,158,167,TTU,2641,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2641.png,Texas Tech
+159,159,159,169,WIU,2710,#4e1e8a,https://a.espncdn.com/i/teamlogos/ncaa/500/2710.png,Western Illinois
+160,160,160,171,UIW,2916,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2916.png,Incarnate Word
+161,161,161,172,ARIZ,12,#0c234b,https://a.espncdn.com/i/teamlogos/ncaa/500/12.png,Arizona
+162,162,162,173,NAU,2464,#003976,https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png,Northern Arizona
+163,163,163,174,BYU,252,#003da5,https://a.espncdn.com/i/teamlogos/ncaa/500/252.png,BYU
+164,164,164,175,SHSU,2534,#fe5000,https://a.espncdn.com/i/teamlogos/ncaa/500/2534.png,Sam Houston
+165,165,165,176,UCLA,26,#2774ae,https://a.espncdn.com/i/teamlogos/ncaa/500/26.png,UCLA
+166,166,166,177,CCU,324,#007073,https://a.espncdn.com/i/teamlogos/ncaa/500/324.png,Coastal Carolina
+167,167,167,179,IDST,304,#ef8c00,https://a.espncdn.com/i/teamlogos/ncaa/500/304.png,Idaho State
+168,168,168,180,FSU,52,#782f40,https://a.espncdn.com/i/teamlogos/ncaa/500/52.png,Florida State
+169,169,169,181,LSU,99,#461d7c,https://a.espncdn.com/i/teamlogos/ncaa/500/99.png,LSU
+170,170,170,183,ORST,204,#231f20,https://a.espncdn.com/i/teamlogos/ncaa/500/204.png,Oregon State
+171,171,171,184,RUTG,164,#d21034,https://a.espncdn.com/i/teamlogos/ncaa/500/164.png,Rutgers
+172,172,172,185,NU,77,#582c83,https://a.espncdn.com/i/teamlogos/ncaa/500/77.png,Northwestern
+173,173,173,186,DUKE,150,#013088,https://a.espncdn.com/i/teamlogos/ncaa/500/150.png,Duke
+174,174,174,187,CLEM,228,#f56600,https://a.espncdn.com/i/teamlogos/ncaa/500/228.png,Clemson
+175,175,175,189,MUR,93,#002148,https://a.espncdn.com/i/teamlogos/ncaa/500/93.png,Murray State
+176,176,176,191,INST,282,#00669a,https://a.espncdn.com/i/teamlogos/ncaa/500/282.png,Indiana State
+177,177,177,203,YSU,2754,#E51936,https://a.espncdn.com/i/teamlogos/ncaa/500/2754.png,Youngstown State
+178,178,178,207,DEL,48,#033594,https://a.espncdn.com/i/teamlogos/ncaa/500/48.png,Delaware
+179,179,179,211,APSU,2046,#8e0b0b,https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png,Austin Peay
+180,180,180,219,GRAM,2755,#ee8601,https://a.espncdn.com/i/teamlogos/ncaa/500/2755.png,Grambling
+181,181,181,223,UCD,302,#002855,https://a.espncdn.com/i/teamlogos/ncaa/500/302.png,UC Davis
+182,182,182,233,LAF,322,#790000,https://a.espncdn.com/i/teamlogos/ncaa/500/322.png,Lafayette
+183,183,183,239,CHSO,2127,#2e3192,https://a.espncdn.com/i/teamlogos/ncaa/500/2127.png,Charleston Southern
+184,184,184,243,DSU,2169,#FF3630,https://a.espncdn.com/i/teamlogos/ncaa/500/2169.png,Delaware State
+185,185,185,247,HC,107,#0a0a0a,https://a.espncdn.com/i/teamlogos/ncaa/500/107.png,Holy Cross
+186,186,186,253,UNH,160,#004990,https://a.espncdn.com/i/teamlogos/ncaa/500/160.png,New Hampshire
+187,187,187,255,EIU,2197,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2197.png,Eastern Illinois
+188,188,188,263,RICH,257,#9e0712,https://a.espncdn.com/i/teamlogos/ncaa/500/257.png,Richmond
+189,189,189,273,WAG,2681,#00483A,https://a.espncdn.com/i/teamlogos/ncaa/500/2681.png,Wagner
+190,190,190,275,SIU,79,#85283D,https://a.espncdn.com/i/teamlogos/ncaa/500/79.png,Southern Illinois
+191,191,191,277,TXSO,2640,#860038,https://a.espncdn.com/i/teamlogos/ncaa/500/2640.png,Texas Southern
+192,192,192,283,CP,13,#1E4D2B,https://a.espncdn.com/i/teamlogos/ncaa/500/13.png,Cal Poly
+193,193,193,291,DUQ,2184,#002D62,https://a.espncdn.com/i/teamlogos/ncaa/500/2184.png,Duquesne
+194,194,194,299,MORG,2415,#014786,https://a.espncdn.com/i/teamlogos/ncaa/500/2415.png,Morgan State
+195,195,195,301,FOR,2230,#830032,https://a.espncdn.com/i/teamlogos/ncaa/500/2230.png,Fordham
+196,196,196,315,HCU,2277,#00539c,https://a.espncdn.com/i/teamlogos/ncaa/500/2277.png,Houston Christian
+197,197,197,321,FAMU,50,#F89728,https://a.espncdn.com/i/teamlogos/ncaa/500/50.png,Florida A&M
+198,198,198,325,IDHO,70,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/70.png,Idaho
+199,199,199,327,MCN,2377,#00529C,https://a.espncdn.com/i/teamlogos/ncaa/500/2377.png,McNeese
+200,200,200,337,FUR,231,#582c83,https://a.espncdn.com/i/teamlogos/ncaa/500/231.png,Furman
+201,201,201,343,NICH,2447,#C41230,https://a.espncdn.com/i/teamlogos/ncaa/500/2447.png,Nicholls
+202,202,202,345,LAM,2320,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2320.png,Lamar
+203,203,203,347,TNTC,2635,#5A4099,https://a.espncdn.com/i/teamlogos/ncaa/500/2635.png,Tennessee Tech
+204,204,204,351,EWU,331,#a10022,https://a.espncdn.com/i/teamlogos/ncaa/500/331.png,Eastern Washington
+205,205,205,389,WEB,2692,#18005a,https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png,Weber State
+206,206,206,409,UNCO,2458,#13558D,https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png,Northern Colorado
+207,207,207,411,NCCU,2428,#880023,https://a.espncdn.com/i/teamlogos/ncaa/500/2428.png,North Carolina Central
+208,208,208,427,CCSU,2115,#1B49A2,https://a.espncdn.com/i/teamlogos/ncaa/500/2115.png,Central Connecticut
+209,209,209,429,UND,155,#00A26B,https://a.espncdn.com/i/teamlogos/ncaa/500/155.png,North Dakota
+210,210,210,431,VMI,2678,#E52D37,https://a.espncdn.com/i/teamlogos/ncaa/500/2678.png,VMI
+211,211,211,435,NORF,2450,#0c8968,https://a.espncdn.com/i/teamlogos/ncaa/500/2450.png,Norfolk State
+212,212,212,453,VILL,222,#00205b,https://a.espncdn.com/i/teamlogos/ncaa/500/222.png,Villanova
+213,213,213,455,SAM,2535,#005485,https://a.espncdn.com/i/teamlogos/ncaa/500/2535.png,Samford
+214,214,214,469,TAR,2627,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2627.png,Tarleton State
+215,215,215,473,PV,2504,#4d0960,https://a.espncdn.com/i/teamlogos/ncaa/500/2504.png,Prairie View A&M
+216,216,216,479,STBK,2619,#990000,https://a.espncdn.com/i/teamlogos/ncaa/500/2619.png,Stony Brook
+217,217,217,495,SAC,16,#00573C,https://a.espncdn.com/i/teamlogos/ncaa/500/16.png,Sacramento State
+218,218,218,501,JKST,2296,#123297,https://a.espncdn.com/i/teamlogos/ncaa/500/2296.png,Jackson State
+219,219,219,589,TAMC,2837,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2837.png,Texas A&M-Commerce
+220,220,220,739,ACU,2000,#592d82,https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png,Abilene Christian
+221,221,221,747,UTU,3101,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png,Utah Tech
+222,222,222,809,W&M,2729,#103217,https://a.espncdn.com/i/teamlogos/ncaa/500/2729.png,William & Mary
+223,223,223,1255,CAM,2097,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2097.png,Campbell
+224,224,224,1257,KENN,338,#fdbb30,https://a.espncdn.com/i/teamlogos/ncaa/500/338.png,Kennesaw State
+225,225,225,1275,MRMK,2771,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2771.png,Merrimack
+226,226,226,1471,UNA,2453,#000000,https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png,North Alabama
+227,227,227,1479,UTC,236,#00386b,https://a.espncdn.com/i/teamlogos/ncaa/500/236.png,Chattanooga
+228,228,228,1517,SHU,2529,#a40012,https://a.espncdn.com/i/teamlogos/ncaa/500/2529.png,Sacred Heart
